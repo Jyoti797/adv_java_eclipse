@@ -1,0 +1,13 @@
+127.0.0.1 - - [14/Dec/2023:15:21:31 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [14/Dec/2023:15:21:32 +0530] "GET /SSU-LAB/login-form.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/Dec/2023:15:21:32 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [14/Dec/2023:15:22:02 +0530] "GET /SSU-LAB/login-response.jsp?e1=diga123%40gmail.com&p1=123456 HTTP/1.1" 200 168
+0:0:0:0:0:0:0:1 - - [14/Dec/2023:15:22:20 +0530] "GET /SSU-LAB/register-form.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/Dec/2023:15:23:19 +0530] "GET /SSU-LAB/registration-response.jsp?naam=Debabrata+Pasayata&phone=9876543210&email=pasayata123%40gmail.com&pass=123456 HTTP/1.1" 500 189
+0:0:0:0:0:0:0:1 - - [14/Dec/2023:17:22:06 +0530] "GET /SSU-LAB/oddEven.html HTTP/1.1" 200 272
+0:0:0:0:0:0:0:1 - - [14/Dec/2023:17:22:18 +0530] "GET /SSU-LAB/oddEven-response.jsp?range%2F=100 HTTP/1.1" 500 2453
+0:0:0:0:0:0:0:1 - - [14/Dec/2023:17:24:52 +0530] "GET /SSU-LAB/oddEven-response.jsp HTTP/1.1" 500 2128
+0:0:0:0:0:0:0:1 - - [14/Dec/2023:17:25:25 +0530] "GET /SSU-LAB/oddEven.html HTTP/1.1" 200 280
+0:0:0:0:0:0:0:1 - - [14/Dec/2023:17:25:31 +0530] "GET /SSU-LAB/oddEven-response.jsp?range%2F=100 HTTP/1.1" 500 2128
+0:0:0:0:0:0:0:1 - - [14/Dec/2023:17:27:08 +0530] "GET /SSU-LAB/oddEven.html HTTP/1.1" 200 282
+0:0:0:0:0:0:0:1 - - [14/Dec/2023:17:27:13 +0530] "GET /SSU-LAB/oddEven-response.jsp?range=100 HTTP/1.1" 500 2130

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>reverse form</title>
+</head>
+<body>
+	<form action="reverse-response.jsp">
+		Enter a number<input type="text" name="n"> <br><br>
+		<input type="submit" value="submit"> <br><br> 
+		
+	</form>
+
+</body>
+</html>

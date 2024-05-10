@@ -1,0 +1,69 @@
+@charset "UTF-8";
+
+body {
+
+	background-image: linear-gradient(to left, rgb(30, 225, 0), rgb(0, 238, 255));
+}
+
+#container {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+
+}
+
+#signup {
+	width: 350px;
+	height: 600px;
+	box-shadow: 3px 2px 3px gray;
+	border: 2px solid black;
+	padding: 20px;
+	margin: 20px;
+	background-image: linear-gradient(to right, rgb(30, 225, 0), rgb(0, 238, 255));
+}
+
+#box {
+	height: 30px;
+	width: 100%;
+}
+
+#user {
+	position: relative;
+}
+
+#logo {
+	display: flex;
+	justify-content: center;
+	height: 60px;
+	border-radius: 50%;
+}
+
+a {
+	display: flex;
+	justify-content: center;
+}
+
+.img {
+	border-radius: 50%;
+}
+
+#Register {
+	display: flex;
+	justify-content: center;
+}
+
+#button {
+	width: 100px;
+	height: 30px;
+	border-radius: 20px;
+
+}
+
+#button:hover {
+	background: linear-gradient(to right, rgb(-30, 225, 0), rgb(0, 238, 255));
+	cursor: pointer;
+}
+
+.p {
+	padding-left: 25px;
+}

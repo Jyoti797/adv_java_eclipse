@@ -1,0 +1,17 @@
+INDEX VERSION 1.134
+D:\adv_java_eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3423761772.index
+\tagDemo\src
+D:\adv_java_eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\807688629.index
+\ssu\src
+D:\adv_java_eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3948499700.index
+\SSU-LAB\src\main\java
+D:\adv_java_eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2192172893.index
+\LogIn\src\main\java
+D:\adv_java_eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2629284396.index
+\webProject\src\main\java
+D:\adv_java_eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\339038493.index
+\SSU-PRACTICAL\src\main\java
+D:\adv_java_eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\590345388.index
+\jspDemo\src
+D:\adv_java_eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3711493367.index
+\LogIn\src\main\java

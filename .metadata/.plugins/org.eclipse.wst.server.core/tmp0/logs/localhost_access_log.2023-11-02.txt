@@ -1,0 +1,8 @@
+127.0.0.1 - - [02/Nov/2023:20:08:32 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [02/Nov/2023:20:14:36 +0530] "GET /ssu/calculator-form.html HTTP/1.1" 200 551
+0:0:0:0:0:0:0:1 - - [02/Nov/2023:20:14:36 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [02/Nov/2023:20:14:52 +0530] "GET /ssu/calculator-response.jsp?a=56&b=700&operation=1 HTTP/1.1" 200 178
+0:0:0:0:0:0:0:1 - - [02/Nov/2023:20:16:03 +0530] "GET /ssu/cInterest-form.html HTTP/1.1" 200 437
+0:0:0:0:0:0:0:1 - - [02/Nov/2023:20:16:21 +0530] "GET /ssu/cInterest-response.jsp?p=100000&r=15&t=10 HTTP/1.1" 200 243
+0:0:0:0:0:0:0:1 - - [02/Nov/2023:20:17:20 +0530] "GET /ssu/grade-form.html HTTP/1.1" 200 646
+0:0:0:0:0:0:0:1 - - [02/Nov/2023:20:24:03 +0530] "GET /ssu/grade-response.jsp?eng=56&odia=67&phy=78&chem=89&math=34&bio=96 HTTP/1.1" 200 264

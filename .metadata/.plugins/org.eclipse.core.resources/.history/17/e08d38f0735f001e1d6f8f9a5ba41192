@@ -1,0 +1,19 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>TO DO JSP DEMO</title>
+</head>
+<body>
+ <form action = "todo-demo.jsp">
+ ADD NEW ITEM <input type = "text" name="theItem"/><br/><br/>
+ <input type="submit" value="Submit"/>
+</form>
+<br/><br/>
+ITEMS ENTERED <br/>
+<%= request.getParameter("theItem") %>
+
+</body>
+</html>
